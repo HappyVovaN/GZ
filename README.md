@@ -1,1 +1,1 @@
-Котёл-утилизатор для ГЗ
+CCGT off-desgin performance calculation
